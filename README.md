@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sholz22
-- 👀 I’m interested in being a front-end developer.
-- 🌱 I’m currently learning basic CSS
-- 💞️ I’m looking to collaborate on basic web development projects to build confidence as I'm still a beginner.
+- 👀 I’m a fast-developing front-end developer.
+- 💞️ I’m open to collaborations on web development projects.
 - 📫 How to reach me christowosh@gmail.com
 
 <!---
